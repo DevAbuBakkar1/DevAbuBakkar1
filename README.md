@@ -6,10 +6,10 @@
 * ➤ I'm working as a Professional web inventor since 2016 and completed 150 Projects Successfully.
 * ➤ I'm also a CMS expert in Wix, Editor X, Velo, SquareSpace, WordPress, WebFlow, Unbounce, Click Tubes, and Shopify. 
 
-* ⭐ Agency web army.XYZ
-* ⭐ Portfolio dmsolver.com
-* ✔️ Over 4 Years of experience.
-* ✔️ Completed over 150 Projects at colorful commerce since 2016.
+* ⭐ Agency www.webarmy.co
+* ⭐ Portfolio devabu.me
+* ✔️ Over 6 Years of experience.
+* ✔️ Completed over 400+  Projects at colorful commerce since 2016.
 
 
 I can develop any kind of Website
@@ -81,7 +81,10 @@ Still, be happy to speak with me, If you're curious about my services. I will be
 Thanks
 Abu Bakkar 
 
-Skills: PHP / REACT / JS /LARAVEL / HTML / CSS/ BOOTSTRAP / JQUERY /MYSQL
+Skills
+PROGRAMMING LANGUAGE : PHP / REACT / JS /LARAVEL / HTML / CSS/ BOOTSTRAP / JQUERY /MYSQL/ THEME DEVELOPMENT 
+CMS : WORDPRESS , SHOPIFY , WIX , SQUARESPACE , WEBFLOW
+
 
 - 🔭 I’m currently working on Upwork, Fiverr and Local Marketplce 
 - 🌱 I’m currently learning Laravel Advance , Vue Js , React ,WordPress Theme and Plugin Development 
