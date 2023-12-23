@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Abu Bakkar
-#### Full Stack Web Developer
-![Full Stack Web Developer](https://scontent.fdac23-1.fna.fbcdn.net/v/t39.30808-6/316096940_575534134587089_9104687139231206539_n.png?stp=dst-png_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=y8q0x6OhR7wAX-77r7T&tn=kG6pHXfbupHTMOnL&_nc_ht=scontent.fdac23-1.fna&oh=00_AfCBWL7dbsR-HTTO-_uixVGIqWxFnfeMNspLTWNXk3MJow&oe=637F0647)
+#### WordPress Expert
 
 ⭐ I'm a Wordpress web developer expert on Wordpress CMS. I try to keep on working until my client is satisfied! I exerting to earn fashionable feedback from my clients. However, look no further, If you are looking for a Developer for your company or building your website. Browse my portfolio, feedback, and systems, and please don't vacillate to succeed in bent me.
 * ➤ I'm working as a Professional web inventor since 2016 and completed 300+ Projects Successfully.
