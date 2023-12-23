@@ -2,14 +2,14 @@
 #### Full Stack Web Developer
 ![Full Stack Web Developer](https://scontent.fdac23-1.fna.fbcdn.net/v/t39.30808-6/316096940_575534134587089_9104687139231206539_n.png?stp=dst-png_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=y8q0x6OhR7wAX-77r7T&tn=kG6pHXfbupHTMOnL&_nc_ht=scontent.fdac23-1.fna&oh=00_AfCBWL7dbsR-HTTO-_uixVGIqWxFnfeMNspLTWNXk3MJow&oe=637F0647)
 
-⭐ I'm a Fullstack web developer expert on Laravel. I try to keep on working until my client is satisfied! I exerting to earn fashionable feedback from my clients. However, look no further, If you are looking for a Developer for your company or building your website. Browse my portfolio, feedback, and systems, and please don't vacillate to succeed in bent me.
-* ➤ I'm working as a Professional web inventor since 2016 and completed 150 Projects Successfully.
+⭐ I'm a Wordpress web developer expert on Wordpress CMS. I try to keep on working until my client is satisfied! I exerting to earn fashionable feedback from my clients. However, look no further, If you are looking for a Developer for your company or building your website. Browse my portfolio, feedback, and systems, and please don't vacillate to succeed in bent me.
+* ➤ I'm working as a Professional web inventor since 2016 and completed 300+ Projects Successfully.
 * ➤ I'm also a CMS expert in Wix, Editor X, Velo, SquareSpace, WordPress, WebFlow, Unbounce, Click Tubes, and Shopify. 
 
-* ⭐ Agency www.webarmy.co
+* ⭐ Senior WordPress Developer at www.webarmy.co
 * ⭐ Portfolio devabu.me
 * ✔️ Over 6 Years of experience.
-* ✔️ Completed over 400+  Projects at colorful commerce since 2016.
+* ✔️ Completed over 300+  Projects at colorful commerce since 2016.
 
 
 I can develop any kind of Website
@@ -32,15 +32,7 @@ Platforms/ CMS/ Languages I'm an expert in
 ---------------------------------------------------
 * ✔️ Shopify
 * ✔️ WordPress
-* ✔️ Wix
-* ✔️ Unbounce
-* ✔️ Squarespace
-* ✔️ Webflow
-* ✔️ Click Funnels
-* ✔️ Magento
-* ✔️ Weebly & WebFlow
 * ✔️ html5
-* ✔️ CSS ( Headwind CSS/ Bulma)
 * ✔️ Javascript
 * ✔️ Php
 * ✔️ Mern Stack Web Inventor
@@ -66,7 +58,6 @@ Then's a summary of what I can serve you.
 * ✔️ Fix any Web Point issues
 * ✔️ W3C validated clean law
 * ✔️ Multilingual Included
-* ✔️ Weebly & WebFlow CMS
 * ✔️ On- Runner SEO
 * ✔️ Dispatch marketing & Mailchimp Expert
 * ✔️ Lead Generation & Data chancing
@@ -82,14 +73,14 @@ Thanks
 Abu Bakkar 
 
 Skills
-PROGRAMMING LANGUAGE : PHP / REACT / JS /LARAVEL / HTML / CSS/ BOOTSTRAP / JQUERY /MYSQL/ THEME DEVELOPMENT 
-CMS : WORDPRESS , SHOPIFY , WIX , SQUARESPACE , WEBFLOW
+PROGRAMMING LANGUAGE : PHP / JS / HTML / CSS/ BOOTSTRAP / JQUERY /MYSQL/ THEME DEVELOPMENT 
+CMS : WORDPRESS , SHOPIFY 
 
 
 - 🔭 I’m currently working on Upwork, Fiverr and Local Marketplce 
-- 🌱 I’m currently learning Laravel Advance , Vue Js , React ,WordPress Theme and Plugin Development 
+- 🌱 I’m currently learning Advance WordPress Theme and Plugin Development 
 - 💬 Ask me about Web Develoment 
-- 📫 How to reach me: https://www.linkedin.com/in/abubakkarshohan/ 
+- 📫 How to reach me: https://www.linkedin.com/in/devabu/
 
 
 
